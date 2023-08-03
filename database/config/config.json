@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "gou",
+    "password": "Umbr3ll42014.",
+    "database": "gou",
+    "host": "190.60.110.38",
+    "dialect": "postgres"
+  }
+
+}
